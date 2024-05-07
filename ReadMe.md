@@ -1,21 +1,45 @@
-# 💫 About Me:
--👋 Olá, sou Gabriel<br>- 👀 Estou à procura de estágio.<br>- 🌱 Estudante de Análise e Desenvolvimento de Sistemas.<br>- 💞️ Procuro projeto que posso me aprimorar academicamente.<br>- 📫 Contato: gabrielkatika@gmail.com .<br>-📱 WhatsApp: +55 (45) 99954-7453.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kaila+camila;I'm+24+years+old;I'm+from+Brazil;I+Student+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gabriel.katika) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gabriel_katika/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-katika-miranda-filetti-21997a253/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/gabriel_katika) 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kailacamila&show_icons=true&count_private=true&hide_border=true&title_color=6495ED4&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Kaila Camila github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kailacamila&layout=compact&hide_border=true&title_color=ff91a4&text_color=0d1117&bg_color=0d1117" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabrielkatika&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielkatika&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkatika&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kailacamila&bg_color=000000&color=68686e&line=ededed&point=20abd9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kailacamila&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p> 
 
----
-[![](https://visitcount.itsvg.in/api?id=gabrielkatika&icon=3&color=0)](https://visitcount.itsvg.in)
+<div align="center">  
+  
+<div align="center"> 
+<a href="https://www.instagram.com/aaaa_kayla/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a KXkndSAPiw" target="_blank"><img target="_blank"></a>
+<a href = "Kailacamila15@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kaila-camila-morel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+ ### Main skills:
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
+
+### Studying in this moment:
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kailacamila}/count.svg" /></p> 
+<br>
+</div> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
+
