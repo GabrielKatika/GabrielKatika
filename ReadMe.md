@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielkatika&show_icons=true&count_private=true&hide_border=true&title_color=6495ED4&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Katika github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkatika&layout=compact&hide_border=true&title_color=ff91a4&text_color=0d1117&bg_color=0d1117" />
+    <img align="right" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkatika&layout=compact&theme=dark&langs_count=9&hide_border=true&title_color=6495ED4&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Katika top languages" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielkatika&bg_color=000000&color=68686e&line=ededed&point=20abd9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
